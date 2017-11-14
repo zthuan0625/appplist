@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://mmhy-game.b0.upaiyun.com/2017-11-13-1331/MMYX.ipa</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>maomao.zhien.com</string>
+          <key>bundle-version</key>
+          <string>1.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>毛毛游戏</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
